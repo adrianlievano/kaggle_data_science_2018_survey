@@ -81,3 +81,16 @@ members of the project's leadership.
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
 available at [http://contributor-covenant.org/version/1/4][version]
+
+### Survey Question Requests ###
+1. A question asking respondents of a given role to rank their proficiency in machine learning, 
+statistics, business communication, business strategy, data engineering, and software engineering so that the Kaggle community can generate spider plots of the characteristics of each role (analysts, data scientists, data engineers, machine learning engineers, product managers).
+
+### Questions to explore ###
+1. What is the growth rate between 2017, 2018, 2019 for education majors, level of education, and the different roles that respondents say they are doing primarily at work?
+2. What is the variance contribution of each feature to predicting salary of different technical contributors?
+3. How many dimensions can we reduce the data into and capture 95% of the variance for salary prediction?
+
+
+### Other requests for features ###
+1. This code can be refactored. Help doing so would be great!
