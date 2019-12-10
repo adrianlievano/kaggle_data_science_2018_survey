@@ -1,6 +1,9 @@
 # A Notebook Building Visualizations for Kaggle's Annual Machine Learning & Data Science Survey
 An exploratory analysis of Kaggle's 2018 Data Science Survey with over 20,000 respondents. Please navigate to the 2018_data folder and select data science notebook #1. This is the file with refactored code and helper functions to parse the survey data. 
 
+## Executive Summary:
+Data is everywhere -- in every industry, country, organization, and user of digital applications, data and the way we store, process, analyze, and share its insights with others can be used for great benefit. Executing a data strategy starts by building a stronger data culture. To build a stronger data culture, understand the differences between individual contributors in a data team, build your technical infrastructure to support collaboration across company departments, and always consider the impact of data and organizational bias when pursuing data projects. 
+
 ## The Motivation ##
 Data is everywhere -- in every industry, country, organization, and user of digital applications, data and the way we store, process, analyze, and share its insights with others can be used for great benefit. Leaders across companies and prospective job seekers interested in information are on fertile grounds: the cost of data storage is exponentially decreasing, the amount and velocity of data is increasing, and the algorithms that open the valve on this spigot of value are more accessible with modern programming frameworks. To capture this value, however, companies face considerable challenges such as hiring and retaining talent, using an organization’s structured and unstructured datasets, and much more. The best way to tackle these problems is to have a data strategy: a strategy for organizing, governing, analyzing, and deploying an organization’s information assets11.
 
@@ -11,3 +14,6 @@ The annual industry-wide Kaggle Data Science & Machine Learning survey contains 
 
 ##Blog Post on Medium
 https://medium.com/p/d293fa5a26ff/edit#4c14
+
+## Acknowledgements: 
+Thank you to my friends and mentors for reading drafts of this post and for providing feedback. I am grateful for their support. I’d also like to thank Kaggle for preparing such detailed data sets from their annual data science and machine learning survey. It is such hard work to clean, prepare, and present data for a community of over 1 million data enthusiasts to analyze. 
