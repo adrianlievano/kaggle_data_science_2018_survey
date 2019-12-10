@@ -12,14 +12,5 @@ A data strategy has multiple parts: addressing compliance and security, creating
 ## The Data ##
 The annual industry-wide Kaggle Data Science & Machine Learning survey contains 16,000, 23, 859, and 19,717 responses in 2017, 2018, and 2019, respectively2, 3, 4. A Kaggle data science notebook and jupyter notebook is used to analyze the survey fields. This report focuses on self-reported Software Engineer, Data Engineer, and Data Scientist respondents. I selected this audience because these are the key contributors in a data team: software engineers build the infrastructure that allow user actions to be logged, data engineers extract, transform, and load (ETL) these actions into structured tables, and data scientists use this data to analyze, predict, or communicate results to various stakeholders. It’s important to understand their different needs so that organizations that seek to build a data-driven culture can invest in key contributors to solve their major obstacles. All code, visualizations, and supporting resources can be found in the reference section of this notebook. I also cite external studies, referenced below. 
 
-
-## Initial Exploratory Insights ##
-
-
-
-## Recommendations for supporting the ML/Data Science Community
-(In process)
-
-
-##Blog on Medium
-(In progress)
+##Blog Post on Medium
+https://medium.com/p/d293fa5a26ff/edit#4c14
